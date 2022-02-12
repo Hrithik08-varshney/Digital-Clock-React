@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+/* @font-face {
+  font-family: digital;
+  src: url(TickingTimebombBB.ttf);
+} */
+body{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.mainDiv{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 10px;
+ font-size: 50px;
+ color: red;
+}
